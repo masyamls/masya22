@@ -2,7 +2,9 @@
 
 ввели команды:
 sudo yum install wget
+
 sudo yum install curl
+
 sudo yum install git
 
 ![image](https://github.com/user-attachments/assets/30fe6ddc-fdda-449c-a272-1de063dbe0ac)
